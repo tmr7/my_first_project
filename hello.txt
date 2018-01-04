@@ -1,2 +1,4 @@
-hello! git
+hello! GitHub
+
+Git の操作方法について学んでいます。
 
